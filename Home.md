@@ -12,7 +12,9 @@ The participants will develop a microservice running on CF@HCP which exposes its
 Find [here](http://mo-f8268fdb9.mo.sap.corp:8080/jenkins/job/cc-coursematerial/lastSuccessfulBuild/artifact/Z_Presentations/cc-appdev-java.pdf) the latest slide version.
 
 ## Training Schedule
-![Course Plan](Abstract/images/Java_CoursePlan.png)
+
+[[https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/raw/master/Abstract/images/Java_CoursePlan.png]]
+
 
 ## Environment Setup and Prerequisites
 Every particpant should set up their development environment in advance. This [document](/CoursePrerequisites/README.md) describes the installation/configuration steps in detail.
