@@ -2,7 +2,7 @@
 
 This document contains links to information for trainers and content developers.
 
-* [Course planning and execution](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Z_TrainerGuide/CoursePlanningAndExecution.md): Contacts to book rooms, create courses in the SF Learning, collecting and processing feedback.
+* [Course planning and execution](/Z_TrainerGuide/CoursePlanningAndExecution.md): Contacts to book rooms, create courses in the SF Learning, collecting and processing feedback.
 * [Overview Material](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Z_TrainerGuide/MaterialOverview.md): Get familiar with the building blocks of the course.
 * [Checking Technical Prerequisites](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master//CoursePrerequisites/TrainerInfo.md): Check if the VM works and the services are up and running.
 * [Troubleshooting](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Z_TrainerGuide/TroubleShooting.md): How to deal with potential technical issues.
