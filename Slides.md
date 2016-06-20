@@ -1,0 +1,1 @@
+Find [here](http://mo-9d199bd4b.mo.sap.corp:8080/job/cc-coursematerial/lastSuccessfulBuild/artifact/Z_Presentations/cc-appdev-java.pdf) the latest version of the slides.
