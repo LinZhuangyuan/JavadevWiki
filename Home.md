@@ -1,5 +1,3 @@
-## Course Overview
-
 The course **Microservices Development in Java** is targeted at application developers who want to learn how to develop a scalable application on HCP Cloud Foundry. You will learn about the key challenges of a public cloud application and about the key elements of cloud applications like: microservice architecture, REST services, stateless apps, cloud foundry as a platform, unit and component testing, connecting to backing services (DBs etc), logging and monitoring, etc.
 
 The participants will develop a microservice running on CF@HCP which exposes its API via REST, connects to a persistence backing service and that communicates with another service. Based on an 'empty shell application' the participants build a real cloud application / microservice including testing and logging on the different levels. After the training you will have an idea about which libraries and frameworks are useful / required in that context.
