@@ -12,6 +12,6 @@ This document contains links to information for trainers and content developers.
 Further Hints
 - Make use of the [Support Group JAM community](https://jam4.sapjam.com/groups/about_page/qXGUpaYj8Jn3pPCB9xdXiE) to ask questions, help your colleagues or share best practices ...
 - Register yourself to the [CF users mailing list](https://listserv.sap.corp/mailman/listinfo/cf.users) to keep informed about current issues on HCP Cloud Foundry
-- Feel free to create issues in context of this project
+- Feel free to create issues in context of [this project](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/issues)
 
 
