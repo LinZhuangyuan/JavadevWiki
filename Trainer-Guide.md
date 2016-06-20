@@ -1,4 +1,4 @@
-# Trainer Guide
+# <img src="https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Z_ReuseImages/images/trainersCorner.jpg" width="150" alt="Trainer's Corner"/> Trainer Guide
 
 This document contains links to information for trainers and content developers.
 
