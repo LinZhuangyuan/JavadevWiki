@@ -9,7 +9,7 @@ This document contains links to information for trainers and content developers.
 * [Content development information](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Z_TrainerGuide/ContentDevelopmentInfo.md): Changing the agenda, forking the material, setting up latex and build environment, changing slides and everything else.
 * [List of Links and Resources](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Resources.md): Contains further operational links for HCP CF ... 
 
-Further Hints
+##### Further Hints
 - Make use of the [Support Group JAM community](https://jam4.sapjam.com/groups/about_page/qXGUpaYj8Jn3pPCB9xdXiE) to ask questions, help your colleagues or share best practices ...
 - Register yourself to the [CF users mailing list](https://listserv.sap.corp/mailman/listinfo/cf.users) to keep informed about current issues on HCP Cloud Foundry
 - Feel free to create issues in context of [this project](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/issues)
