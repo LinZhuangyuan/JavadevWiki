@@ -1,6 +1,6 @@
 # <img src="https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Z_ReuseImages/images/training.jpg" width="150" alt="Course Formats"/> Course Formats
 
-[<img src="https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Abstract/images/Java_CoursePlan.png" height="400" alt="Course"/>](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Abstract/images/Java_CoursePlan_Simple.png)
+[<img src="https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Abstract/images/Java_CoursePlan_Simple.png" height="400" alt="Course"/>](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Abstract/images/Java_CoursePlan_Simple.png)
 
 ## Classroom
 This material is typically used in a **classroom training** and usually taken by a **whole team**. For details on how to request a training for your team see the [course info page](https://jam4.sapjam.com/wiki/show/EGWlK3mtzql9i8c3jVNNgk?_lightbox=true). 
