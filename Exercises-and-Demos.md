@@ -68,6 +68,9 @@ Every participant should set up their development environment in advance. This [
 **Continuous Integration and - Delivery**
 - [Exercise: [Optional] Setup CD Pipeline](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/ContinuousDelivery/Exercise_Setup_CD_Pipeline.md)
 
+**Microservice Design** 
+- Initial guidance on designing microservices
+
 
 ## Advanced Exercises / Demos
 - Demo: Tracing with [AOP (AspectJ)](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/LoggingTracing/AOP.md)
