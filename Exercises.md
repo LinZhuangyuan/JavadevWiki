@@ -1,8 +1,5 @@
 # <img src="https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Z_ReuseImages/images/yourTurn.jpg" width="150" alt="Exercise"/> Exercises
 
-## Training Schedule
-[<img src="https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Abstract/images/Java_CoursePlan.png" height="400" alt="Course"/>](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Abstract/images/Java_CoursePlan.png)
-
 ## Environment Setup and Prerequisites
 
 Every participant should set up their development environment in advance. This [document](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/CoursePrerequisites/README.md) describes the installation/configuration steps in detail.
