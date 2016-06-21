@@ -6,5 +6,5 @@ The participants will develop a microservice running on CF@HCP which exposes its
 | :---: | :---: | :---: | :---: |:---: |
 | [Course](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/wiki/Course) | [Slides](http://mo-9d199bd4b.mo.sap.corp:8080/job/cc-coursematerial/lastSuccessfulBuild/artifact/Z_Presentations/cc-appdev-java.pdf) | [Exercises and Demos](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/wiki/Exercises-and-Demos) | [Discuss and Share](https://jam4.sapjam.com/groups/about_page/qXGUpaYj8Jn3pPCB9xdXiE) | [Trainer's Corner](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/wiki/Trainer-Guide) |
 
-Find [here](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/wiki/Resources) further resources.
+[Further resources](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/wiki/Resources) are collected here.
 
