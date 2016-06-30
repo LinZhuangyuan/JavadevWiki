@@ -81,4 +81,4 @@ Every participant should set up their development environment in advance. This [
   - [connect HANA database via JDBC](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Hana/Demo_HANA.md)
   - [create Hana artefacts via HDI](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Hana/Demo_HANA_HDI.md)
 - Demo: [Hystrix Dashboard](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Service2ServiceCommunication/HystrixDashboard.md)
-- Demo: [Storing session data using Redis](Knowledge/Redis.md)
+- Demo: [Storing session data using Redis](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Knowledge/Redis.md)
