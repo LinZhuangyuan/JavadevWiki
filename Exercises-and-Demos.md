@@ -67,7 +67,7 @@ Every participant should set up their development environment in advance. This [
 ## Day 5
 
 **Continuous Integration and - Delivery**
-- [Exercise: [Optional] Setup CD Pipeline](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/ContinuousDelivery/Exercise_Setup_CD_Pipeline.md)
+- [Exercise 27: [Optional] Setup CD Pipeline](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/ContinuousDelivery/Exercise_Setup_CD_Pipeline.md)
 
 **Microservice Design** 
 - Initial guidance on designing microservices
