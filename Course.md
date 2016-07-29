@@ -11,7 +11,7 @@ There is also an **eLearning version** of the course with videos for all theory 
 * Note: Unless you are an experienced Java developer **we strongly recommend to do the training in a classroom setting** with an experienced trainer that you can ask when you get stuck - which usually happens. If you have no access to a classroom training, then we recommend to go through the videos together with your team.
 
 ## Prerequisites
-- **Participants**: This version of the course assumes a beginner to intermediate level of Java knowledge. 
+- **Participants**: You should have a **working knowledge of Java and be familiar with Eclipse and Maven basics before taking this course!**
 - **Trainers**: 
 If you want to become a trainer for this course you should be an experienced Java developer and know Spring.
 - **Environment Setup**: Every participant should set up their development environment in advance. This [document](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/CoursePrerequisites/README.md) describes the installation/configuration steps in detail.
