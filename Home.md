@@ -1,4 +1,4 @@
-Please be informed that with November, 18th a new version is active. Have a look at the [announcement and FAQ page](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/AnnouncementOfNewVersion.md).
+Please be informed that **with November, 18th a new version is active**. Have a look at the [announcement and FAQ page](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/AnnouncementOfNewVersion.md).
 
 The **Microservices Development in Java** course is targeted at application developers who want to learn how to develop a scalable application on HCP Cloud Foundry. You will learn about the key challenges of a public cloud application and about the key elements of cloud applications like: microservice architecture, REST services, stateless apps, cloud foundry as a platform, unit and component testing, connecting to backing services (DBs etc), logging and monitoring, etc.
 
