@@ -1,3 +1,4 @@
+
 # <img src="https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Z_ReuseImages/images/yourTurn.jpg" width="150" alt="Exercise"/> Exercises
 
 
@@ -12,7 +13,7 @@ Every participant should set up their development environment in advance. This [
 
 **Motivation / Getting Started**
 - [Exercise 1: Getting Started](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/CreateMicroservice/Exercise_1_GettingStarted.md)
-- [Exercise 2: Provide Hello World Resource on Tomcat](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/CreateMicroservice/Exercise_2_HelloWorldResource.md)
+- [Exercise 2: Provide Hello World Service on Tomcat](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/CreateMicroservice/Exercise_2_HelloWorldResource.md)
 
 **Create Advertisement Service** [[Detail Notes](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/CreateMicroservice/Readme.md)]
 - [Exercise 3: Create Advertisement Endpoints](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/CreateMicroservice/Exercise_3_CreateAdsEndpoints.md)
@@ -40,8 +41,7 @@ Every participant should set up their development environment in advance. This [
 **Logging** [[Detail Notes](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/LoggingTracing)]
 - [Exercise 12: Setup Logger](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/LoggingTracing/Exercise_12_Setup_Logger.md)
 - [Exercise 13: Use SLF4J Features](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/LoggingTracing/Exercise_13_Use_SLF4J_Features.md)
-- [Exercise 14: [Optional] Setup Injectable Logger](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/LoggingTracing/Exercise_14_Setup_Injectable_Logger.md)
-- [Exercise 15: [Optional] Analyze Log/Traces in Kibana](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/LoggingTracing/Exercise_15_GettingStarted_With_ELK_Stack.md)
+- [Exercise 14: [Optional] Analyze Log/Traces in Kibana](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/LoggingTracing/Exercise_14_GettingStarted_With_ELK_Stack.md)
 
 **Service-to-Service Communication** [[Detail Notes](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Service2ServiceCommunication/README.md)]
 - [Exercise 16: Call User Service (synchronuous)](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Service2ServiceCommunication/Exercise_16_Call_UserService.md)
