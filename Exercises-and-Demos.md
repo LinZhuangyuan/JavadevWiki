@@ -60,7 +60,7 @@ Every participant should set up their development environment in advance. This [
 - [Exercise 24: Make Application Secure](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Security/Exercise_24_MakeYourApplicationSecure.md)
  
 **Testing Strategy** [[Detail Notes](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/TestStrategy/Readme.md)]
-- [Exercise 25: Create System Test](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/TestStrategy/Exercise_25_Create_SystemTest.md)
+- [Exercise 25: Implement Systemtests for Bulletinboard](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/TestStrategy/Exercise_25_Create_SystemTest.md)
 - [Exercise 26: [Optional] Performance-Testing with JMeter](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/TestStrategy/Exercise_26_PerformanceTesting_With_JMeter.md)
 
 
