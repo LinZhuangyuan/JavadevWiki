@@ -61,12 +61,10 @@ Every participant should set up their development environment in advance. This [
 
 **Multi Tenancy** [[Detail Notes](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/MultiTenancy/Readme.md)]
 
+## Day 5
 **Testing Strategy** [[Detail Notes](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/TestStrategy/Readme.md)]
 - [Exercise 25: Implement Systemtests for Bulletinboard](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/TestStrategy/Exercise_25_Create_SystemTest.md)
 - [Exercise 26: [Optional] Performance-Testing with JMeter](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/TestStrategy/Exercise_26_PerformanceTesting_With_JMeter.md)
-
-
-## Day 5
 
 **Continuous Integration and - Delivery**
 - [Exercise 27: [Optional] Setup CD Pipeline](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/ContinuousDelivery/Exercise_Setup_CD_Pipeline.md)
