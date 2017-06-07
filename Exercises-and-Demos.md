@@ -58,7 +58,9 @@ Every participant should set up their development environment in advance. This [
 - [Exercise 22: Deploy Application Router for Authentication](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Security/Exercise_22_DeployApplicationRouter.md)
 - [Exercise 23: Setup generic Authorization](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Security/Exercise_23_SetupGenericAuthorization.md)
 - [Exercise 24: Make Application Secure](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Security/Exercise_24_MakeYourApplicationSecure.md)
- 
+
+**Multi Tenancy** [[Detail Notes](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/MultiTenancy/Readme.md)]
+
 **Testing Strategy** [[Detail Notes](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/TestStrategy/Readme.md)]
 - [Exercise 25: Implement Systemtests for Bulletinboard](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/TestStrategy/Exercise_25_Create_SystemTest.md)
 - [Exercise 26: [Optional] Performance-Testing with JMeter](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/TestStrategy/Exercise_26_PerformanceTesting_With_JMeter.md)
