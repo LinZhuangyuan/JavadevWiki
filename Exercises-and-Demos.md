@@ -33,8 +33,8 @@ Every participant should set up their development environment in advance. This [
 - [Exercise 8.2: Use Repository to Access Database](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/ConnectDatabase/Exercise_8_Part2_UseRepositoryToAccessDatabase.md)
 - [Exercise 9: Implement JPA Entity](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/ConnectDatabase/Exercise_9_ImplementJPAEntity.md)
 - [Exercise 10: Deploy Ads on Cloud Foundry](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/ConnectDatabase/Exercise_10_DeployAdsWithDBServiceOnCF.md)
+- [Exercise 10 - 2: [Optional] Connecting to a CF Backing Service](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/ConnectDatabase/Exercise_10_2_ConnectBackingService.md)
 - [Exercise 11: [Optional] Implement a Custom Query](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/ConnectDatabase/Exercise_11_Develop_Custom_Queries.md)
-
 
 ## Day 3
 
