@@ -10,3 +10,4 @@ Please be informed that **with November, 18th a new version is active**. Have a 
 
 **Further resources** are collected [here](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/wiki/Resources).
 
+See also **[prerequisites and environment setup.](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/wiki/Course#prerequisites)**
