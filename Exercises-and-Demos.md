@@ -41,7 +41,7 @@ Every participant should set up their development environment in advance. This [
 **Logging** [[Detail Notes](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/LoggingTracing)]
 - [Exercise 12: Setup Logger](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/LoggingTracing/Exercise_12_Setup_Logger.md)
 - [Exercise 13: Use SLF4J Features](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/LoggingTracing/Exercise_13_Use_SLF4J_Features.md)
-- [Exercise 14: [Optional] Analyze Log/Traces in Kibana](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/LoggingTracing/Exercise_14_GettingStarted_With_ELK_Stack.md)
+- [Exercise 14: Analyze Log/Traces in Kibana](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/LoggingTracing/Exercise_14_GettingStarted_With_ELK_Stack.md)
 - [Exercise 15: [Optional] Debugging an Application Remotely](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/LoggingTracing/Exercise_15_Debug_CF_Application.md)
 
 **Service-to-Service Communication** [[Detail Notes](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Service2ServiceCommunication/README.md)]
