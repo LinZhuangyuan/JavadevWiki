@@ -8,7 +8,7 @@ This training focuses on the 'app level', i.e. the backend and how to offer REST
 | :---: | :---: | :---: | :---: |:---: |
 | [Course](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/wiki/Course) | [Slides](http://mo-9d199bd4b.mo.sap.corp:8080/job/cc-coursematerial/lastSuccessfulBuild/artifact/Z_Presentations/cc-appdev-java.pdf) | [Exercises and Demos](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/wiki/Exercises-and-Demos) | [Discuss and Share](https://jam4.sapjam.com/groups/about_page/qXGUpaYj8Jn3pPCB9xdXiE) | [Trainer's Corner](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/wiki/Trainer-Guide) |
 
-Notes
-- Effective Nov 18th, 2016 the new version is active. Have a look at the [announcement and FAQ page](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/AnnouncementOfNewVersion.md) to see what changed.
-- **Further resources** are collected [here](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/wiki/Resources).
-- See also **[prerequisites and environment setup.](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/wiki/Course#prerequisites)**
+> Notes
+>- Effective Nov 18th, 2016 the new version is active. Have a look at the [announcement and FAQ page](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/AnnouncementOfNewVersion.md) to see what changed.
+>- **Further resources** are collected [here](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/wiki/Resources).
+>- See also **[prerequisites and environment setup.](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/wiki/Course#prerequisites)**
