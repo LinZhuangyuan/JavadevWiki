@@ -14,4 +14,4 @@ There is also an **eLearning version** of the course with videos for all theory 
 - **Participants**: You should have a **working knowledge of Java and be familiar with Eclipse and Maven basics before taking this course!**
 - **Trainers**: 
 If you want to become a trainer for this course you should be an experienced Java developer and know Spring.
-- **Environment Setup**: Every participant should set up their development environment in advance. This [document](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/CoursePrerequisites/README.md) describes the installation/configuration steps in detail.
+- **Environment Setup**: Every participant should set up their development environment in advance. For instructions see the [detailed installation / configuration steps document](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/CoursePrerequisites/README.md).
