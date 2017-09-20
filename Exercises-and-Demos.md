@@ -71,7 +71,7 @@ Every participant should set up their development environment in advance. See th
 - [Exercise 27: [Optional] Setup CD Pipeline](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/ContinuousDelivery/Exercise_Setup_CD_Pipeline.md)
 
 **Microservice Design** 
-- Initial guidance on designing microservices
+- [Video: Initial guidance on designing microservices](https://video.sap.com/media/t/1_osk49m4r/39197781)
 
 
 ## Advanced Exercises / Demos
@@ -83,3 +83,6 @@ Every participant should set up their development environment in advance. See th
   - [create Hana artefacts via HDI](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Hana/Demo_HANA_HDI.md)
 - Demo: [Hystrix Dashboard](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Service2ServiceCommunication/HystrixDashboard.md)
 - Demo: [Storing session data using Redis](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Knowledge/Redis.md)
+
+## Videos
+You can find most of the videos published as part of our [e-learning](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/wiki/Course#elearning-for-review-and-special-situations). Only some are uploaded on [video.sap.com](https://video.sap.com/channel/Cloud+Curriculum+Channel).
