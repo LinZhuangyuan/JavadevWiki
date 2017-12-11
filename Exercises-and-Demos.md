@@ -13,7 +13,7 @@ Every participant should set up their development environment in advance. See th
 
 **Motivation / Getting Started**
 - [Exercise 1: Getting Started](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/CreateMicroservice/Exercise_1_GettingStarted.md)
-- [Exercise 2: Provide Hello World Service on Tomcat](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/CreateMicroservice/Exercise_2_HelloWorldResource.md)
+- [Exercise 2: [Optional] Provide Hello World Service on Tomcat](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/CreateMicroservice/Exercise_2_HelloWorldResource.md)
 
 **Create Advertisement Service** [[Detail Notes](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/CreateMicroservice/Readme.md)]
 - [Exercise 3: Create Advertisement Endpoints](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/CreateMicroservice/Exercise_3_CreateAdsEndpoints.md)
