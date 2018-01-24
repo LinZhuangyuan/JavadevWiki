@@ -19,7 +19,7 @@ Every participant should set up their development environment in advance. See th
 - [Exercise 3: Create Advertisement Endpoints](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/CreateMicroservice/Exercise_3_CreateAdsEndpoints.md)
 - [Exercise 4: Create Automated Component Tests](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/CreateMicroservice/Exercise_4_CreateServiceTests.md)
 - [Exercise 4.2: [Optional] Implement Update/Delete Test-driven](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/CreateMicroservice/Exercise_4_Part2_CreateAdditionalAdsEndpoints.md)
-- [Exercise 5: [Optional] Validation and Exceptions](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/CreateMicroservice/Exercise_5_ValidationAndExceptions.md)
+- [Exercise 5: [Optional] Introduce Validations and Exception Handler](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/CreateMicroservice/Exercise_5_ValidationAndExceptions.md)
 
 
 ## Day 2
