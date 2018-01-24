@@ -1,5 +1,5 @@
 
-# <img src="https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Z_ReuseImages/images/yourTurn.jpg" width="150" alt="Exercise"/> Exercises
+# <img src="https://github.wdf.sap.corp/refapps/cc-bulletinboard-ads-spring-webmvc/blob/Documentation/Z_ReuseImages/images/281498_SwissArmyKnife_R_blue.png" height="80" alt="Exercise"/> Exercises
 
 
 ## Environment Setup and Prerequisites
