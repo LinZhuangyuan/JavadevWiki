@@ -14,6 +14,7 @@ There are a few SDKs developed within SAP that provide APIs as well as project t
 
 The SAP S/4HANA Cloud SDK is the framework of choice for developing side-by-side extensions for S/4HANA Cloud systems based on the SAP Cloud Platform.
 
+![S/4 SDK](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Z_ReuseImages/images/s4sdk.jpg)
 
 The SAP S/4HANA Cloud SDK provides many out-of-the-box capabilities for integrating S/4HANA and for writing Cloud-native applications in general: 
 - an abstraction of the underlying cloud platform environment (Neo & Cloud Foundry) for simple access and as an option to transition to Cloud Foundry,
