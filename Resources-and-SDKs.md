@@ -7,8 +7,19 @@
 * See also the [Java Performance Training](https://wiki.wdf.sap.corp/wiki/display/NWEngPer/Performance+Trainings), especially chapters  1, 5, 6 und 9.
 
 # SDKs
-This course focuses on explaining how to write a good microservice and understand the internals that are important. There are a few SDKs developing within SAP that provide a 'empty shell' and APIs to make development for certain cases easier. We expect several SDKs to develop for different scopes and use cases such as IoT, S/4 extensions etc.
+This course focuses on explaining how to write a good microservice and understand the internals that are important. 
+There are a few SDKs developed within SAP that provide APIs as well as project templates to make microservice development in certain areas easier and more efficient, e.g. for different scopes and use cases such as IoT, S/4HANA extensions etc. 
 
-The important ones are:
-- **[S/4 Extension SDK](https://github.wdf.sap.corp/MA/sdk)** (f.k.a. "FIN SDK"): This SDK originally grew out of experience at FIN and abstracts the environment differences of HCP NEO and Cloud Foundry into an API layer. This makes it easy to migrate apps from HCP to Cloud Foundry. In the mean time the focus has shifted to provide an SDK for partners and customers to easily write custom S/4 extensions. See the [S/4 Cloud SDK wiki](https://wiki.wdf.sap.corp/wiki/x/Y4J3bg) for more details.
- 
+## SAP S/4 HANA Cloud SDK
+
+The SAP S/4HANA Cloud SDK is the framework of choice for developing side-by-side extensions for S/4HANA Cloud systems based on the SAP Cloud Platform.
+
+
+The SAP S/4HANA Cloud SDK provides many out-of-the-box capabilities for integrating S/4HANA and for writing Cloud-native applications in general: 
+- an abstraction of the underlying cloud platform environment (Neo & Cloud Foundry) for simple access and as an option to transition to Cloud Foundry,
+- a Virtual Data Model (VDM) for ease of programming and simplified communication with the S/4HANA system, 
+- resilience with Hystrix to prevent cascading failure,
+- continuous integration and delivery (pipeline as code),
+- tutorials and project templates. 
+
+You may also refer to the detailed Feature Overview for further information on how to get started. 
