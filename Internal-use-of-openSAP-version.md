@@ -1,4 +1,4 @@
-![](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Z_ReuseImages/images/cloud-native-banner.png) 
+<img src="https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Z_ReuseImages/images/cloud-native-banner.png" width="960">
  
 Starting April 10th there will be an [openSAP version](https://open.sap.com/courses/cp5) of this course. This page contains information on how to use the openSAP course in an SAP-internal environment. 
 
