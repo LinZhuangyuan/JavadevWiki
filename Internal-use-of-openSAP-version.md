@@ -1,13 +1,12 @@
-![](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Z_ReuseImages/images/cloud-native-banner.png)
-# Using the openSAP course internally
-
+![](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Z_ReuseImages/images/cloud-native-banner.png) 
+ 
 Starting April 10th there will be an [openSAP version](https://open.sap.com/courses/cp5) of this course. This page contains information on how to use the openSAP course in an SAP-internal environment. 
 
-#### Link to openSAP course: 
+#### Link to openSAP course "Cloud-Native Development with SAP Cloud Platform": 
 * https://open.sap.com/courses/cp5 
 
-#### How to setup SAP-internal VM (simplifies to setup training within SAP environment, Proxy settings etc.)
-* https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/CoursePrerequisites/README.md#2-prepare-your-development-environment 
+#### SAP internal Virtual Machine (VM)
+The SAP-internal VM image simplifies the setup within the SAP environment, considering Proxy settings etc. [This page](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/CoursePrerequisites/README.md#2-prepare-your-development-environment) explains from where to download and how to set it up.
 
 #### Further learning material, that may be of interest
 * **Bonus Unit: Testing Strategy**  
