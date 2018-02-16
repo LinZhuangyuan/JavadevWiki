@@ -12,10 +12,10 @@ The SAP-internal VM image simplifies the setup within the SAP environment, consi
 * **Bonus Unit: Testing Strategy**  
 [Video](https://video.sap.com/media/t/1_p4infeh9/39197781), [Slides](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/TestStrategy/openSAP_cp5_Week_6_Unit_2.2_TS_Presentation.pdf), [Exercise 25: Implement Systemtests for Bulletinboard](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/TestStrategy/Exercise_25_Create_SystemTest.md)
 * **Demo: Hystrix Dashboard Demo**  
-  Video, [Readme](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Service2ServiceCommunication/HystrixDashboard.md)
+  [Video](https://video.sap.com/media/t/1_fgmzd2o2), [Readme](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Service2ServiceCommunication/HystrixDashboard.md)
 * **Demo: Storing session data using Redis**  
-  Video, [Readme](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Knowledge/Redis.md)
+  [Video](https://video.sap.com/media/t/1_dbwmlpdc/39197781), [Readme](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Knowledge/Redis.md)
 * **Demo: Tracing with AOP (AspectJ)**  
-  Video, [Readme](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/LoggingTracing/AOP.md)
+  [Video](https://video.sap.com/media/t/1_r5yg6kpu/39197781), [Readme](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/LoggingTracing/AOP.md)
 * **Demo: Connect to HANA Database via HDI**  
   [Video](https://video.sap.com/media/t/1_5nc4bbxv/39197781), [Readme](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Hana/Demo_HANA_HDI.md)
