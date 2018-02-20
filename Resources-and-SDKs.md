@@ -16,11 +16,11 @@ The SAP S/4HANA Cloud SDK is the framework of choice for developing side-by-side
 
 ![S/4 SDK](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Z_ReuseImages/images/s4sdk.jpg)
 
-The SAP S/4HANA Cloud SDK provides many out-of-the-box capabilities for integrating S/4HANA and for writing Cloud-native applications in general: 
+The [SAP S/4HANA Cloud SDK](https://jam4.sapjam.com/groups/5flp8TOw033gh4INdIYA7w/overview_page/ai0I1Lvle3smbmA8FeelxM) provides many out-of-the-box capabilities for integrating S/4HANA and for writing Cloud-native applications in general: 
 - an abstraction of the underlying cloud platform environment (Neo & Cloud Foundry) for simple access and as an option to transition to Cloud Foundry,
 - a Virtual Data Model (VDM) for ease of programming and simplified communication with the S/4HANA system, 
 - resilience with Hystrix to prevent cascading failure,
 - continuous integration and delivery (pipeline as code),
-- tutorials and project templates. 
+- [tutorials and project templates](https://go.sap.corp/s4sdk-tutorials). 
 
-You may also refer to the detailed Feature Overview for further information on how to get started. 
+You may also refer to the detailed [Feature Overview](https://wiki.wdf.sap.corp/wiki/display/RAApps/SDK+Feature+Overview) for further information on how to get started. 
