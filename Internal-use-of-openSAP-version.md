@@ -10,7 +10,7 @@ The SAP-internal VM image simplifies the setup within the SAP environment, consi
 
 #### Further learning material, that may be of interest
 * **Bonus Unit: Testing Strategy**  
-[Video](https://video.sap.com/media/t/1_p4infeh9/39197781), [Slides](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/TestStrategy/openSAP_cp5_Week_6_Unit_2.2_TS_Presentation.pdf), [Exercise 25: Implement Systemtests for Bulletinboard](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/TestStrategy/Exercise_25_Create_SystemTest.md)
+[Video](https://video.sap.com/edit/0_cuus9tmj), [Slides](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/TestStrategy/openSAP_cp5_Week_6_Unit_2.2_TS_Presentation.pdf), [Exercise 25: Implement Systemtests for Bulletinboard](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/TestStrategy/Exercise_25_Create_SystemTest.md)
 * **Demo: Hystrix Dashboard Demo**  
   [Video](https://video.sap.com/media/t/1_fgmzd2o2), [Readme](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Service2ServiceCommunication/HystrixDashboard.md)
 * **Demo: Storing session data using Redis**  
