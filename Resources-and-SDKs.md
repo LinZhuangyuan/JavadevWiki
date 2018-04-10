@@ -6,6 +6,12 @@
 * [HCP Cloud Foundry Positioning, Development and Migration Guideline](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Knowledge/HCP_CF%40HCP_Application_Provider_final.pdf) 
 * See also the [Java Performance Training](https://wiki.wdf.sap.corp/wiki/display/NWEngPer/Performance+Trainings), especially chapters  1, 5, 6 und 9.
 
+# CAP
+
+CAP is the internal code name for the 'Cloud Application Programming' model that offers HANA, CDS, UI5 with Java or node.js in a highly integrated stack. The goal is to make writing cloud applications simpler and reduce the boiler-plate code and system level details that developers have to deal with. 
+
+How for this approach will be able to reach is not clear but it is clear that it will be the main-stream environment for customer / partner written extensions to S/4 and other smaller stand-alone applications. You can find a quick overview on the [CAP - getting started](https://github.wdf.sap.corp/pages/cap/get-started/) page.
+
 # SDKs
 This course focuses on explaining how to write a good microservice and understand the internals that are important. 
 There are a few SDKs developed within SAP that provide APIs as well as project templates to make microservice development in certain areas easier and more efficient, e.g. for different scopes and use cases such as IoT, S/4HANA extensions etc. 
