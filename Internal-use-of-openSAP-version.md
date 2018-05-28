@@ -19,3 +19,15 @@ The SAP-internal VM image simplifies the setup within the SAP environment, consi
   [Video](https://video.sap.com/media/t/1_r5yg6kpu/39197781), [Readme](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/LoggingTracing/AOP.md)
 * **Demo: Connect to HANA Database via HDI**  
   [Video](https://video.sap.com/media/t/1_5nc4bbxv/39197781), [Readme](https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Hana/Demo_HANA_HDI.md)
+
+
+### <img src="https://github.wdf.sap.corp/cloud-native-dev/java-persistence/blob/master/_internal/images/282421_Employee-advocacy2_R_blue.png" height="50" alt="Feedback and Support" align="middle"/> Questions and Feedback
+
+You can ask questions on the content in [this forum](https://jam4.sapjam.com/groups/qXGUpaYj8Jn3pPCB9xdXiE/overview_page/RSrcWuNWmPbVgWTKZNPTft). Check also the [Troubleshooting](../blob/master/Z_TrainerGuide/TroubleShooting.md) page for known issues. Another source for help is the [openSAP discussion forum](https://open.sap.com/courses/cp5/pinboard). 
+
+
+### Distribution List for Content Updates
+Please subscribe / unsubscribe [here](https://profiles.wdf.sap.corp/groups/598db6415f99b777d300002a) to get informed about the latest cloud-native course modules.
+
+
+<img src="https://cloud-native-dev-usage-tracker.cfapps.sap.hana.ondemand.com/pagehit/java-resilience/wiki/1x1.png" alt="" height="1" width="1">
