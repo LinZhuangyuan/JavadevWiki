@@ -1,6 +1,6 @@
 <img src="https://github.wdf.sap.corp/cc-java-dev/cc-coursematerial/blob/master/Z_ReuseImages/images/cloud-native-banner.png" width="960">
  
-Starting April 10th there will be an [openSAP version](https://open.sap.com/courses/cp5) of this course. This page contains information on how to use the openSAP course in an SAP-internal environment. 
+There is an [openSAP version](https://open.sap.com/courses/cp5) of this course. This page contains information on how to use the openSAP course in an SAP-internal environment. 
 
 #### Link to openSAP course "Cloud-Native Development with SAP Cloud Platform": 
 * https://open.sap.com/courses/cp5 
