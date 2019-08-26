@@ -28,6 +28,3 @@ You can ask questions on the content in [this forum](https://jam4.sapjam.com/gro
 
 ### Distribution List for Content Updates
 Please subscribe / unsubscribe [here](https://profiles.wdf.sap.corp/groups/598db6415f99b777d300002a) to get informed about the latest cloud-native course modules.
-
-
-<img src="https://cloud-native-dev-usage-tracker.cfapps.sap.hana.ondemand.com/pagehit/java-resilience/wiki/1x1.png" alt="" height="1" width="1">
