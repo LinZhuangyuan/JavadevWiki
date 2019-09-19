@@ -15,5 +15,5 @@ This training focuses on the 'app level', i.e. the backend and how to offer REST
 
 > Notes
 >- Effective Nov 18th, 2016 the new version is active. Have a look at the [announcement and FAQ page](https://github.com/cdcsap/cc-coursematerial/blob/master/AnnouncementOfNewVersion.md) to see what changed.
->- **Further resources** are collected [here](https://github.com/cdcsap/cc-coursematerial/wiki/Resources-and-SDKs).
->- See also **[prerequisites and environment setup.](https://github.com/cdcsap/cc-coursematerial/wiki/Course#prerequisites)**
+>- **Further resources** are collected [here](https://github.com/cdcsap/JavadevWiki/blob/master/Resources-and-SDKs.md).
+>- See also **[prerequisites and environment setup.](https://github.com/cdcsap/JavadevWiki/blob/master/Course.md)**
